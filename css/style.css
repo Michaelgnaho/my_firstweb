@@ -1,0 +1,30 @@
+body{
+	background-color:#C4E4FF
+}
+hr {
+	border-style: none;
+	border-top: dotted;
+	border-color: aliceblue;
+	border-width: 5px;
+	height: 0;
+	width: 20%;
+}
+h2,h1{
+	color: #D6589F;
+}
+img {
+	background-color: rgb(19, 87, 146);
+	border-radius:30px;
+
+}
+h2:hover,h1:hover{
+	color: rgb(146, 95, 19);
+}
+.download-button{
+	
+}
+
+/* carousel-item */
+.carousel-item{
+	color: #000;
+}
